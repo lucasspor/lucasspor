@@ -27,10 +27,10 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
+  <a >
     <img height="175" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspor&layout=compact&theme=gotham">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+  <a >
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasspor&show_icons=true&layout=compact&theme=gotham" />
   </a>
 </p>
