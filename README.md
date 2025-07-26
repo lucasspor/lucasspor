@@ -44,6 +44,9 @@
   <a href="https://www.linkedin.com/in/lucas-silva-porto-826240209/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+ <a href="mailto: lucassporto.contato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
