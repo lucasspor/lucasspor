@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Nest.js-339933?style=flat-square&logo=nest.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nest.js-339933?style=flat-square&logo=nestjs&logoColor=white" />
+
 </p>
 
 ---
