@@ -53,7 +53,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/lucasspor/lucasspor/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasspor/lucasspor/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
