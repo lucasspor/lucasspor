@@ -8,4 +8,4 @@ Always exploring new tools, ideas, and ways to grow. 🚀
 
 ---
 
-📫<a href="https://www.linkedin.com/in/lucas-silva-porto-826240209/" target="_blank">LinkedIn</a> • 📩 <a href="mailto:lucassporto.contato@gmail.com" target="_blank">Email</a>
+📫 [LinkedIn](https://www.linkedin.com/in/lucas-silva-porto-826240209/){:target="_blank" rel="noopener"} • 📩 [Email](mailto:lucassporto.contato@gmail.com){:target="_blank" rel="noopener"}
